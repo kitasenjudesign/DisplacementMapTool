@@ -1,6 +1,6 @@
 # DisplacementMap Painter with Adobe Animate
 
-![a](https://i.gyazo.com/6050634f42880375e73a0a745cbccb38.gif)
+![example](https://thumb.gyazo.com/thumb/116_w/_0e4bb4b21c636eca2ce3005171e83238-gif.gif)
 
 ## 簡単な解説
 http://qiita.com/_nabe/items/3035fca67070dc894797
